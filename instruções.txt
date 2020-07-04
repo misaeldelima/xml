@@ -5,7 +5,7 @@
 3- Colocar a pasta "xml" na raiz do projeto;
 4- Colar a arquivo "produtos.php" na pasta "application/views/produtos/" do MapOs para adicionar o botão do xml;
 5- Configurar o arquivo "database.php" de acordo com a base de dados do MapOs;
-6- Alterar o Link nas linhas 06 e 10 do arquivo "processa.php" de acordo com seu dominio, se for "localhost" não é necessário a alteração;
+6- Alterar o Link nas linhas 06 e 10 do arquivo "processa.php" de acordo com seu dominio;
 7- O sitema já adiciona 20% sobre o valor da nota de entrada, para alterar basta ir no arquivo "processa.php" e alterar o valor na linha 54;
 
 Em caso de duvidas pode me chamar no telegram/whatsapp: +55 (27) 99570-2762
