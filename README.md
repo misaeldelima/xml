@@ -1,1 +1,1 @@
-# xml para integração com o mapos
+# Arquivo para integração de XML com o MapOs
